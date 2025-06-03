@@ -1,24 +1,21 @@
 
 ---
 
-````md
 <h1 align="center">✨ 𝒦𝒾𝓉𝒶𝓃ℴ𝒮𝒶𝓀𝓊𝓇𝒶𝓃𝒶 🌸</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F37AB2&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🌸+Otaku%2C+Coder+%26+Reverse+Engineer;🧠+Always+Learning+%2F+Breaking+%2F+Creating;🎮+Game+Modding+%2F+Anime+Web+Dev;🎐+Welcome+to+My+Digital+Shrine!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F37AB2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🌸+Otaku%2C+Coder+%26+Dev+Engineer;💮+心の向かうままに、音の届くところへ;🎀+だって、ずっと君のことが好きだったんだ！
+  " alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Kitano's%20World!&fontSize=40&fontAlignY=35&desc=🌸%20Reverse%20Engineer%20%7C%20Web%20Artist%20%7C%20Game%20Tinker&descSize=18&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Kitano's%20Profile!&fontSize=40&fontAlignY=35&desc=🌸%20心之%20所向%20%7C%20音之%20所达%20%7C%20Love%20You&descSize=18&descAlign=60" />
 </p>
 
 ---
 
 ## 👑 About Me
-
-```bash
 > whoami
 🌸 KitanoSakurana
-````
 
 * 💻 逆向分析 | 网页开发 | 动漫二创
 * 🗃️ 目前学习：Vue / Element Plus / Go / PHP / Python / Node
@@ -47,7 +44,7 @@
 
 ---
 
-## 🐍 贪吃蛇贡献信息
+## 🐍 Contribution information
 
 <p align="center">
   <img src="https://github.com/KitanoSakurana/KitanoSakurana/raw/output/github-contribution-grid-snake.svg" />
