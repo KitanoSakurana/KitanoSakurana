@@ -3,14 +3,15 @@
 
 <h1 align="center">✨ 𝒦𝒾𝓉𝒶𝓃ℴ𝒮𝒶𝓀𝓊𝓇𝒶𝓃𝒶 🌸</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F37AB2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🌸+Otaku%2C+Coder+%26+Dev+Engineer;💮+心の向かうままに、音の届くところへ;🎀+だって、ずっと君のことが好きだったんだ！
-  " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=2000&amp;color=F37AB2&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=600&amp;height=100&amp;lines=🌸+Otaku%2C+Coder+%26+Dev+Engineer;💮+心の向かうままに、音の届くところへ;🎀+だって、ずっと君のことが好きだったんだ！" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Kitano's%20Profile!&fontSize=40&fontAlignY=35&desc=🌸%20心之%20所向%20%7C%20音之%20所达%20%7C%20Love%20You&descSize=18&descAlign=60" />
 </p>
 
+### 听听音乐？
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31bgcylqxuofskjxhnecqyvl23tm)
 ---
 
 ## 👑 About Me
