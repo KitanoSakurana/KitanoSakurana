@@ -34,8 +34,6 @@
 
 ---
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31bgcylqxuofskjxhnecqyvl23tm)
-
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bgcylqxuofskjxhnecqyvl23tm" alt="Visitor Count" />
 </p>
