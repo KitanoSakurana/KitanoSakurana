@@ -16,10 +16,12 @@
 * 🗃️ 目前学习：Vue / Element Plus / Go / PHP / Python / Node
 * 🐧 Arch & CentOS / Windows 多系统爱好者
 ---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind,nodejs,go,php,python,linux,mysql,docker,c#" />
 </p>
 ---
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KitanoSakurana&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KitanoSakurana&theme=tokyonight" />
@@ -28,12 +30,14 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitanoSakurana&layout=compact&theme=tokyonight" />
 </p>
 ---
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31bgcylqxuofskjxhnecqyvl23tm)
 ---
 <p align="center">
   <img src="https://count.getloli.com/get/@KitanoSakurana?theme=rule34" alt="Visitor Count" />
 </p>
 ---
+
 <p align="center">
   <a href="https://discord.com/invite/kpYzPgv8Ur">
     <img src="https://img.shields.io/badge/discord-100000?style=for-the-badge&logo=discord&logoColor=white" />
@@ -45,8 +49,8 @@
     <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=MAIL&logoColor=white" />
   </a>
 </p>
-
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
