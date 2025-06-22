@@ -2,17 +2,22 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F37AB2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%8C%B8+Otaku%2C+Coder+%26+DevOps;%F0%9F%92%AE+%E5%BF%83%E3%81%AE%E5%90%91%E3%81%8B%E3%81%86%E3%81%BE%E3%81%BE%E3%81%AB%E3%80%81%E9%9F%B3%E3%81%AE%E5%B1%8A%E3%81%8F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%B8;%F0%9F%8E%80+%E3%81%A0%E3%81%A3%E3%81%A6%E3%80%81%E3%81%9A%E3%81%A3%E3%81%A8%E5%90%9B%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%EF%BC%81" alt="Typing SVG" />
 </p>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Kitano's%20Profile!&fontSize=40&fontAlignY=35&desc=🌸%20心之%20所向%20%7C%20音之%20所达%20%7C%20Love%20You&descSize=18&descAlign=60" />
-</p>
 
-> whoami
-🌸 KitanoSakurana
+![header](./header.jpg)
+### 📚The language I am currently learning
 
-* 💻 逆向分析 | 网页开发 | 动漫二创
-* 🗃️ 目前学习：Vue / Element Plus / Go / PHP / Python / Node
-* 🐧 Arch & Ubuntu / Windows 多系统爱好者
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=ddbdd0&logo=PHP&label= "PHP")
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=e4cad9&logo=JavaScript&label= "JavaScript")
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=ebd7e3&logo=Python&label= "Python")
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=f1e5ec&logo=HTML5&label= "HTML5")
+![VUE](https://img.shields.io/static/v1?style=for-the-badge&message=Vue&color=f8f2f6&logo=vuedotjs&label= "VUE")
+
+### 🔧The programming tools I usually use
+
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=91bce6&logo=Visual+Studio+Code&logoColor=23a8f2&label= "Visual Studio Code")
+![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=a7c9eb&logo=Visual+Studio&logoColor=01070e&label= "Visual+Studio")
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=bdd7f0&logo=Docker&logoColor=01070e&label= "Visual Studio")
+
 ---
 
 <p align="center">
@@ -47,8 +52,4 @@
   <a href="mailto:wange@wangecloud.cn">
     <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=MAIL&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
