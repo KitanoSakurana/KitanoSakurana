@@ -36,12 +36,12 @@
 ---
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bgcylqxuofskjxhnecqyvl23tm" alt="Visitor Count" />
+  <span style="display: inline-flex; gap: 30px; align-items: center;">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bgcylqxuofskjxhnecqyvl23tm" alt="Recently Played on Spotify" />
+    <img src="https://count.getloli.com/get/@KitanoSakurana?theme=rule34" alt="Visitor Count" />
+  </span>
 </p>
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@KitanoSakurana?theme=rule34" alt="Visitor Count" />
-</p>
 
 
 <p align="center">
