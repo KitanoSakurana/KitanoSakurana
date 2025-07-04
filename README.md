@@ -6,17 +6,19 @@
 ![header](./header.jpg)
 ### 📚The language I am currently learning
 
-![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=ddbdd0&logo=PHP&label= "PHP")
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=e4cad9&logo=JavaScript&label= "JavaScript")
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=ebd7e3&logo=Python&label= "Python")
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=f1e5ec&logo=HTML5&label= "HTML5")
-![VUE](https://img.shields.io/static/v1?style=for-the-badge&message=Vue&color=f8f2f6&logo=vuedotjs&label= "VUE")
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=ffdde1&logo=PHP&label= "PHP")
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=fccde2&logo=JavaScript&label= "JavaScript")
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=f6c1d9&logo=Python&label= "Python")
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=fab9d1&logo=HTML5&label= "HTML5")
+![Vue](https://img.shields.io/static/v1?style=for-the-badge&message=Vue&color=f4a9c8&logo=vuedotjs&label= "Vue")
+
 
 ### 🔧The programming tools I usually use
 
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=91bce6&logo=Visual+Studio+Code&logoColor=23a8f2&label= "Visual Studio Code")
-![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=a7c9eb&logo=Visual+Studio&logoColor=01070e&label= "Visual+Studio")
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=bdd7f0&logo=Docker&logoColor=01070e&label= "Visual Studio")
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=bbdefb&logo=Visual+Studio+Code&logoColor=2979ff&label= "Visual Studio Code")
+![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=90caf9&logo=Visual+Studio&logoColor=1c1c1c&label= "Visual+Studio")
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=64b5f6&logo=Docker&logoColor=1c1c1c&label= "Docker")
+
 
 ---
 
