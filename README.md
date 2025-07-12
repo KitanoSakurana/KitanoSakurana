@@ -56,7 +56,7 @@
   <a href="https://space.bilibili.com/1930770874" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-FA7298?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
-  <a href="mailto:wange@wangecloud.cn">
+  <a href="mailto:sakura@bluearchive.cc">
     <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=MAIL&logoColor=white" />
   </a>
 </p>
