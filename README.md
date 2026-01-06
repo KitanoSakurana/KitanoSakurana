@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KitanoSakurana&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://streakstats.wangecloud.cn/api?username=KitanoSakurana&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="49%" src="https://streakstats.wangecloud.cn/?user=KitanoSakurana&theme=tokyonight" />
 </p>
 
