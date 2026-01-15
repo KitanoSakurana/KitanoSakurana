@@ -14,21 +14,14 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=KitanoSakurana&show_icons=true&theme=tokyonight" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KitanoSakurana&layout=compact&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=KitanoSakurana&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KitanoSakurana&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="125" alt="stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KitanoSakurana&layout=compact&theme=tokyonight&hide_border=true" height="125" alt="langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=KitanoSakurana&theme=tokyonight&hide_border=true" height="100" alt="streak" />
+</p>>
 
 ### 📚The language I am currently learning
 
