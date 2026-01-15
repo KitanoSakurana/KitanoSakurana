@@ -15,12 +15,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=KitanoSakurana&theme=tokyonight&hide_border=true" height="100" alt="streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=KitanoSakurana&theme=tokyonight&hide_border=true" height="160" alt="streak" />
   <br />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=KitanoSakurana&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="125" alt="stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KitanoSakurana&layout=compact&theme=tokyonight&hide_border=true" height="125" alt="langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KitanoSakurana&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KitanoSakurana&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="langs" />
 </p>
-
 ### 📚The language I am currently learning
 
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=ffdde1&logo=PHP&label= "PHP")
