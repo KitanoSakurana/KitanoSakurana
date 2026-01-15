@@ -16,8 +16,8 @@
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KitanoSakurana&layout=compact&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=KitanoSakurana&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=KitanoSakurana&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=KitanoSakurana&show_icons=true&theme=tokyonight" />
 </p>
 
 ### 📚The language I am currently learning
