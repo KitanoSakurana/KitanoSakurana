@@ -15,13 +15,11 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=KitanoSakurana&theme=tokyonight&hide_border=true" height="100" alt="streak" />
+  <br />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=KitanoSakurana&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="125" alt="stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KitanoSakurana&layout=compact&theme=tokyonight&hide_border=true" height="125" alt="langs" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=KitanoSakurana&theme=tokyonight&hide_border=true" height="100" alt="streak" />
-</p>>
 
 ### 📚The language I am currently learning
 
