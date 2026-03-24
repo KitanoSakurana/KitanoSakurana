@@ -3,6 +3,7 @@
 <p align="center">
   <img src="./header.jpg" alt="KitanoSakurana header" width="1000" />
 </p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2200&color=F6A5C0&center=true&vCenter=true&width=720&lines=Otaku+%C2%B7+Coder+%C2%B7+DevOps;Build+something+soft%2C+clean+and+useful;%E5%BF%83%E3%81%AE%E5%90%91%E3%81%8B%E3%81%86%E3%81%BE%E3%81%BE%E3%81%AB)](https://git.io/typing-svg)
@@ -36,7 +37,7 @@
       </blockquote>
     </td>
     <td valign="top" width="40%">
-      <img src="./101350035_p0.jpg" alt="Sakurana portrait" width="100%" />
+      <img src="./00fb76eb3e801be055eb8a11a77ba42a11b55ffc.jpg" alt="Sakurana portrait" width="100%" />
     </td>
   </tr>
 </table>
