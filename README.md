@@ -32,10 +32,6 @@
 
 </div>
 
-<p align="center">
-  <img src="./00fb76eb3e801be055eb8a11a77ba42a11b55ffc.jpg" alt="Sakurana portrait" width="360" />
-</p>
-
 ### 🤗 欢迎来访
 
 >[![](https://img.shields.io/github/stars/KitanoSakurana?color=fefb7b&logo=Undertale)](https://github.com/KitanoSakurana)
