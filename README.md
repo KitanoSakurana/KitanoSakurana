@@ -62,7 +62,7 @@
 
 ---
 
-### 🐍 贪吃蛇
+### 🐍 不知道什么东西总而言之是贪吃蛇
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KitanoSakurana/KitanoSakurana/output/github-snake-dark.svg" alt="Snake animation" />
